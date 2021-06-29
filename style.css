@@ -46,7 +46,7 @@ color: rgb(0, 0, 0);
 
 .header{
     margin-top: 30px ;
-    background-image: url(https://scontent-gru2-2.xx.fbcdn.net/v/t1.15752-9/90693931_212183883211812_722984442074759168_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHBKBBdy1HTJ0eL-C2cZwKuqit6ZnOAnV-qK3pmc4CdXxrfl4Dqe9D4jhq44hKAOc3uS21yipGDcSfLwMt5gZSP&_nc_ohc=VZ9NUXzCcewAX-J5D2X&_nc_ht=scontent-gru2-2.xx&oh=fb78adf61fe85e80adc15b7569343c3a&oe=60D37AAB);
+    background-image: url(/haeder.jpg);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -127,7 +127,7 @@ color: rgb(0, 0, 0);
  }
 
 footer{
-    background-image: url(https://scontent-gru2-2.xx.fbcdn.net/v/t1.15752-9/90693931_212183883211812_722984442074759168_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeHBKBBdy1HTJ0eL-C2cZwKuqit6ZnOAnV-qK3pmc4CdXxrfl4Dqe9D4jhq44hKAOc3uS21yipGDcSfLwMt5gZSP&_nc_ohc=VZ9NUXzCcewAX-J5D2X&_nc_ht=scontent-gru2-2.xx&oh=fb78adf61fe85e80adc15b7569343c3a&oe=60D37AAB);
+    background-image: url(/haeder.jpg);
 }
 footer LI{
     color: rgb(5, 5, 5);
